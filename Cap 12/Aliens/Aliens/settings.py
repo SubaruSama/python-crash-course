@@ -9,3 +9,6 @@ class Settings():
         self.background_color: tuple = (230, 230, 230)
         self.version: str = "0.1"
         self.caption_window = f"Alien Invasion - Version {self.version}"
+
+        # Ship settings
+        self.ship_speed_factor = 1.5
