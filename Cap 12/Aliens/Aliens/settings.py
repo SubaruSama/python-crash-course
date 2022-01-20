@@ -8,4 +8,4 @@ class Settings():
         self.screen_height: int = 800
         self.background_color: tuple = (230, 230, 230)
         self.version: str = "0.1"
-        self.caption_window = f"Alien Invasion - Version {self.version}"
+        self.caption_window: str = f"Alien Invasion - Version {self.version}"
