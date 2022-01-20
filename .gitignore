@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_aliens/
 
 # Spyder project settings
 .spyderproject
